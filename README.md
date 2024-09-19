@@ -3,9 +3,4 @@
 
 Team Members Details:
 
-Jayesh Bansal
-  M. Rishik Reddy
-  R. Deepak Kumar
-  G. Uday Kiran
-  Tipparaju Srivalli
-  K. Sowmya sri
+Jayesh Bansal    M. Rishik Reddy     R. Deepak Kumar    G. Uday Kiran    Tipparaju Srivalli    K. Sowmya sri
